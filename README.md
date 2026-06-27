@@ -27,7 +27,7 @@ Study of functions for verifying and converting individual characters:
 - `atof()`: String to `float/double`.
 - `itoa()`: Integer to string.
 
-## 🛠️ Best Practices Applied
+## Best Practices Applied
 - **Memory Safety:** Always reserving space for the null terminator (N+1).
 - **Secure I/O:** Preferring `fgets()` over `gets()` (which is deprecated and unsafe).
 - **Performance:** Calculating `strlen()` once before long loops to avoid redundant processing.
