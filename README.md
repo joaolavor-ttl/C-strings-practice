@@ -1,2 +1,2 @@
-# C-strings-practice
-Just an engineer practicing C strings
+# C Language: Strings and Characters
+
