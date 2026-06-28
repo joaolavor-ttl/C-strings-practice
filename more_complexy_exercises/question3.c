@@ -9,7 +9,6 @@ display: 4;*/
 #include <ctype.h>
 
 int main(){
-    char sentence[1000];
-    
+char sentence[100];
     return 0;
 }
