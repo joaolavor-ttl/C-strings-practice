@@ -10,9 +10,6 @@ display: 4;*/
 
 int main(){
     char sentence[1000];
-    printf("Enter a sentence: ");
-    fgets(sentence, sizeof(sentence), stdin);
-    sentence[strcspn(sentence, "\n")] = 0; // Remove newline character if present
     
     return 0;
 }
