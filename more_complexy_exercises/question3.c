@@ -9,6 +9,5 @@ display: 4;*/
 #include <ctype.h>
 
 int main(){
-    printf("hello world");
     return 0;
 }
